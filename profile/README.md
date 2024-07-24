@@ -23,7 +23,7 @@ For those seeking to build their resume and obtain formal recognition, contribut
 
 We invite you to join our vibrant community of developers. Whether you're looking to contribute to our projects or seeking a supportive environment to grow your skills, S.A.G.E. Team is the place for you.
 
-- **[Join our Discord]([https://discord.link_placeholder](https://discord.gg/EESW8zCK))**
+- **[Join our Discord](https://discord.gg/EESW8zCK)**
 - **[Visit our Website](https://sageteam.org)**
 
 Thank you for being a part of S.A.G.E. Team. Together, we can create something extraordinary.
